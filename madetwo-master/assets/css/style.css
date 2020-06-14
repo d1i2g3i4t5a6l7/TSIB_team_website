@@ -994,7 +994,7 @@ Featured section style
 /*Business Section*/
 
 .business{
-    background: url(../images/business-bg.jpg) no-repeat top center;
+    background: url(../images/business-bg.png) no-repeat top center;
     background-size: cover;
     position: relative;
 }
