@@ -1157,12 +1157,6 @@ work Section style
     bottom:-40px;
     width:64%;
 }
-.main_team .carousel-indicators li{
-    background-color: #c1c1c1;
-}
-.main_team .carousel-indicators .active{
-    background-color: #2c82c9;
-}
 
 /* Skill bar*/
 
@@ -1191,6 +1185,25 @@ work Section style
     left:0px;
     top:0px;
 }
+.team_container {
+    align-items: center;
+    display: flex;
+    float: left;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex-direction: column;
+    align-content:center;
+    margin:50px;
+    width: 100%;
+    height: 100%;
+}
+.member{
+}
+.new_container{
+    float:left;
+    display: table;
+}
+
 
 
 /*Brand Section
