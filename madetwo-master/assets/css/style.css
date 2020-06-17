@@ -104,7 +104,7 @@ section { overflow: hidden; }
 .text-primary{color: #3f92d1 !important;;}
 .text-finence{color:#13A0B2 !important;;}
 .text-mega{color:#3f92d1 !important;;}
-.text-white{color:#fff !important;;}
+.text-white{color:#000 !important;;}
 .text-black{color:#000 !important;}
 .text-warning{}
 .text-danger{}
