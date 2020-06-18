@@ -1257,17 +1257,17 @@ work Section style
 }
 .team_container {
     align-items: center;
-    display: flex;
     float: left;
+    display: flex;
     flex-wrap: nowrap;
     justify-content: center;
-    flex-direction: column;
     align-content:center;
     margin:50px;
     width: 100%;
     height: 100%;
 }
 .member{
+    display:table-column;
 }
 .new_container{
     float:left;
