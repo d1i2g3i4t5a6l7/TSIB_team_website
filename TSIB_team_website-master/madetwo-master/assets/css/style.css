@@ -50,18 +50,31 @@ body {
 
 
 
-.whitetext {
-    color: #fff;
-}
+
 .blacktext {
     color: #000;
 }
 .converter {
     background-color: #EB5757;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    direction: rtl;
 }
-
-
-
+.whitetext {
+    color: #fff;
+    line-height: 2rem;
+}
+.whitetextdescription {
+    color: #fff;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    line-height: 2rem;
+}
+.textwithpointer {
+    color: #fff;
+    margin-top: 20px;
+    line-height: 2rem;
+}
 
 
 
@@ -1236,7 +1249,7 @@ Featured section style
 }
 
 .business_overlay {
-    background-color: #fcee09;
+    background-color: transparent;
     width: 100%;
     height: 100%;
     left: 0;
