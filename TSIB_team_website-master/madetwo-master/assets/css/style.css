@@ -50,10 +50,16 @@ body {
 
 
 
-
+.whitetext {
+    color: #fff;
+}
 .blacktext {
     color: #000;
 }
+.converter {
+    background-color: #EB5757;
+}
+
 
 
 
